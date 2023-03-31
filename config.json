@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri":"mysql://root:@localhost/prince k video",
+        "prod_uri": "mysql://root:@localhost/prince k video",
+        "blog_name":"Prince k video",
+        "tag_line": "You Liked The Coding Then Follow The Page",
+        "no_of_post": 2,
+        "gmail-user": "pk549713@gmail.com",
+        "gamil-password":"wvefjnyqvjekkzsg"
+        
+        
+
+        
+        
+        
+
+    }
+}
